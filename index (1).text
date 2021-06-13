@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class #07</title>
+    <!-- Google Fonts  -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Hammersmith+One&family=Playfair+Display:wght@400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
+    <!-- Google Fonts  -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Menu Part Start -->
+    <div class="full_wrapper header">
+            <div class="wrapper">
+                <div class="logo">
+                    <img src="images/logo.png" alt="Logo">
+                </div>
+                <div class="menu">
+                        <ul>
+                            <li><a href="#">HOME</a></li>
+                            <li><a href="#">ABOUT</a></li>
+                            <li><a href="#">EXPERTISE</a></li>
+                            <li><a href="#">TEAMS</a></li>
+                            <li><a href="#">WORKS</a></li>
+                            <li><a href="#">PEOPLE SAY</a></li>
+                            <li><a href="#">CONTACT</a></li>
+                        </ul>
+                </div>
+                <div class="clr"></div>
+            </div>
+    </div>
+    <!-- Menu Part End -->
+
+    <!-- Banner Part Start -->
+        <div class="full_wrapper banner">
+            <div class="banner_overly">
+                <div class="wrapper">
+                    <div class="banner_text">
+                        <h3>We Are Awesome Creative Agency</h3>
+                        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.</p>
+                        <a href="#">LEARN MORE</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- Banner Part End -->
+
+    <!-- Story Part Start -->
+        <div class="full_wrapper story">
+            <div class="wrapper">
+                    <div class="photo_story">
+                     <div class="photo_img_two">
+                            <img src="images/story.png" alt="Story" width="235">
+                     </div>
+                    </div>
+                    <div class="text_story">
+                        <h3>OUR STORY</h3>
+                        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus
+
+<span>Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>
+                        <a href="#">LEARN MORE</a>
+                    </div>
+                    <div class="clr"></div>
+            </div>
+        </div>
+    <!-- Story Part End -->
+  <!-- Video Part End -->
+        <div class="full_wrapper video">
+          <div class="video_overly">
+            <div class="wrapper">
+                    <div class="video_icon">
+                        <i class="fa fa-play" aria-hidden="true"></i>
+                    </div>
+            </div>
+          </div>
+        </div>
+    <!-- Video Part End -->
+
+    <!-- Expert Part End -->
+        <div class="full_wrapper expert">
+            <div class="wrapper">
+                    <div class="expert_part">
+                        <div class="expert_up_text">
+                            <h3>EXPERTISE</h3>
+                            <p>Lorem ipsum dolor sit amet proin gravida nibh vel velit</p>
+                        </div>
+                        <!-- Item Part Start Here  -->
+                    <div class="expert_item mb">
+                        <div class="ex_icon">
+                            <img src="images/com_icon.png" alt="">
+                        </div>
+                        <div class="ex_head">
+                            <h3>WEB DESIGN & DEVELOPMENT</h3>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+                        </div>
+                    </div>
+
+                    <div class="expert_item mb">
+                        <div class="ex_icon">
+                            <img src="images/com_icon.png" alt="">
+                        </div>
+                        <div class="ex_head">
+                            <h3>WEB DESIGN & DEVELOPMENT</h3>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+                        </div>
+                    </div>
+
+                    <div class="expert_item mr mb">
+                        <div class="ex_icon">
+                            <img src="images/com_icon.png" alt="">
+                        </div>
+                        <div class="ex_head">
+                            <h3>WEB DESIGN & DEVELOPMENT</h3>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+                        </div>
+                    </div>
+                    <div class="clr"></div>
+
+
+                    <!-- Item Part Start Here  -->
+                    <div class="expert_item">
+                        <div class="ex_icon">
+                            <img src="images/com_icon.png" alt="">
+                        </div>
+                        <div class="ex_head">
+                            <h3>WEB DESIGN & DEVELOPMENT</h3>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+                        </div>
+                    </div>
+
+                    <div class="expert_item">
+                        <div class="ex_icon">
+                            <img src="images/com_icon.png" alt="">
+                        </div>
+                        <div class="ex_head">
+                            <h3>WEB DESIGN & DEVELOPMENT</h3>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+                        </div>
+                    </div>
+
+                    <div class="expert_item mr">
+                        <div class="ex_icon">
+                            <img src="images/com_icon.png" alt="">
+                        </div>
+                        <div class="ex_head">
+                            <h3>WEB DESIGN & DEVELOPMENT</h3>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet Aenean.</p>
+                        </div>
+                    </div>
+                    <div class="clr"></div>
+                    </div>
+            </div>
+        </div>
+    <!-- Expert Part End -->
+
+    <!-- Team Part Start -->
+        <div class="full_wrapper team">
+            <div class="team_overly">
+                <div class="wrapper">
+                    <div class="expert_up_text team_color">
+                        <h3>MEET OUR AMAZING TEAM</h3>
+                        <p>Lorem ipsum dolor sit amet proin gravida nibh vel velit</p>
+                    </div>
+                    <div class="team_part">
+                        <div class="team_item">
+                            <div class="team_img">
+                                <img src="images/kichuna (1).jpg" alt="Beda Manus">
+                            </div>
+                            <div class="team_mem_txt">
+                                <h3>SEMF UCUK</h3>
+                                <p>CEO & FOUNDER</p>
+                            </div>
+                        </div>
+
+                        <div class="team_item">
+                            <div class="team_img">
+                                <img src="images/hudai.jpg" alt="Beda Manus">
+                            </div>
+                            <div class="team_mem_txt">
+                                <h3>SEMF UCUK</h3>
+                                <p>CEO & FOUNDER</p>
+                            </div>
+                        </div>
+
+                        <div class="team_item">
+                            <div class="team_img">
+                                <img src="images/kichuna (1).jpg" alt="Beda Manus">
+                            </div>
+                            <div class="team_mem_txt">
+                                <h3>SEMF UCUK</h3>
+                                <p>CEO & FOUNDER</p>
+                            </div>
+                        </div>
+
+                        <div class="team_item mr">
+                            <div class="team_img">
+                                <img src="images/hudai.jpg" alt="Beda Manus">
+                            </div>
+                            <div class="team_mem_txt">
+                                <h3>SEMF UCUK</h3>
+                                <p>CEO & FOUNDER</p>
+                            </div>
+                        </div>
+                        <div class="clr"></div>
+                    </div>
+
+                    <div class="team_last_text">
+                           <p>Become part of our dream team, let’s join us ! </p>
+                          <a href="#">WE ARE HIRING</a>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    <!-- Team Part End -->
+
+    <!-- Banner Part Start -->
+    <div class="full_wrapper p_folio">
+        <div class="wrapper">
+                <div class="p_folio_head">
+                    <div class="expert_up_text">
+                        <h3>OUR WORKS</h3>
+                        <p>Lorem ipsum dolor sit amet proin gravida nibh vel velit</p>
+                    </div>
+                    <div class="p_folio_btn">
+                        <button>Web Design</button>
+                        <button>Web Development</button>
+                        <button>Graphic Design</button>
+                        <button>Animation</button>
+                    </div>
+                </div>
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (1).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (2).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (1).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item ">
+            <img src="images/pfolio (2).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (1).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (2).jpg" alt="hhh">
+        </div>
+        <div class="clr"></div>
+
+        <div class="p_folio_item">
+            <img src="images/pfolio (1).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (2).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (1).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item ">
+            <img src="images/pfolio (2).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (1).jpg" alt="hhh">
+        </div>
+        <div class="p_folio_item">
+            <img src="images/pfolio (2).jpg" alt="hhh">
+        </div>
+        <div class="clr"></div>
+        <div class="wrapper">
+            <div class="last_btn_foli">
+                    <a href="#">Load More</a>
+            </div>
+        </div>
+    </div>
+    <!-- Banner Part End -->
+
+    <!-- Quates Part Start -->
+        <div class="full_wrapper ukti">
+            <div class="ukti_overly">
+                <div class="wrapper">
+                        <div class="ukti_text">
+                            <i class="fa fa-quote-left"></i>
+                            <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit.</p>
+                            <h3>JANE GALADRIEL</h3>
+                            <h4>CEO TENGKUREP</h4>
+                        </div>
+            </div>
+            </div>
+        </div>
+    <!-- Quates Part End -->
+
+ <!-- Contact Part Start -->
+ <div class="full_wrapper contact_client">
+     <div class="wrapper">
+         <div class="contact">
+            <div class="contact_head">
+                <h3>GIVE US A GOOD NEWS</h3>
+            </div>
+            <div class="contact_form">
+                <form action="#" method="POST">
+                    <input type="text" placeholder="Name" name="name" class="name">
+                    <input type="email" placeholder="Email" name="email" class="email">
+                    <input type="text" placeholder="Subject" name="subject" class="subject">
+                    <textarea name="msg" class="msg" placeholder="Your Massage"></textarea>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+         </div>
+         <div class="clients">
+               <div class="contact_head">
+                <h3>OUR HAPPY CLIENT</h3>
+            </div>
+            <div class="client_left">
+                <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+                <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+                <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+                <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+            </div>
+            <div class="client_right">
+               <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+               <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+               <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+               <div class="client_img">
+                     <img src="client.png" alt="ckient">
+                </div>
+            </div>
+            <div class="clr"></div>
+         </div>
+         <div class="clr"></div>
+     </div>
+ </div>
+    <!-- Contact Part End -->
+    <!-- Footer Part Start -->
+        <div class="full_wrapper footer">
+            <div class="wrapper">
+                <div class="newsletter">
+                    <form action="#" method="POST">
+                            <input type="email" placeholder="Subscribe our newsletter" class="news">
+                         <button><i class="fa fa-telegram"></i>
+</button>
+                    </form>
+                </div>
+
+               <div class="main_icon">
+                    <div class="icons">
+                    <ul>
+           <li><a href="#"><i class="fa fa-facebook-official"></i></a></li>
+         
+                    </ul>
+                </div>
+               </div>
+            </div>
+        </div>
+    <!-- Footer Part End -->
+
+</body>
+</html>
+
